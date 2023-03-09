@@ -1,2 +1,2 @@
 # numpy-tuts
-Numpy tutorials
+- Numpy tutorials
